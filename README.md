@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Venomio5
+# 👋 Hi, I'm Venomio
 
 I'm a self-driven developer working on **sports trading and betting prediction models**, while actively expanding my skills in **data science** and **machine learning**.
 

@@ -1,39 +1,25 @@
-# 👋 Hi, I'm Venomio
+# 👋 Hi, I'm Kevin Gonzalez
 
-I'm a self-driven developer working on **sports trading and betting prediction models**, while actively expanding my skills in **data science** and **machine learning**.
+Data Analyst | Aspiring Data Scientist
 
----
+## 👨‍💻 About Me
+I'm a data professional focused on building predictive models and extracting insights from complex datasets. I have experience in end-to-end data projects—from collection and cleaning to modeling and visualization. I'm passionate about sports analytics and machine learning applications.
 
-## 🧠 About Me
-- 🧑‍💻 I work on **machine learning models** for predicting outcomes in the sports betting domain  
-- 🌐 I’ve built full-stack apps using **Python**, **JavaScript**, **HTML/CSS**, and **SQL**  
-- 📊 Currently taking courses in **Data Science** and always experimenting with new ideas  
-- ✈️ Oh, and I'm also a **pilot**—navigating both the skies and code
-
----
-
-## 🧰 Tech Stack
-- **Languages:** Python, JavaScript, SQL, HTML/CSS  
+## 🛠️ Tech Stack
+- **Languages:** Python (Pandas, NumPy, SciPy), SQL.
+- **ML & Modeling:** Scikit-learn, Ridge Regression, Monte Carlo Simulation
 - **Interests:** Machine Learning, Predictive Modeling, Sports Analytics, Web Development  
-- **Tools:** Pandas, scikit-learn, TensorFlow, Flask, Node.js, PostgreSQL, Git
+- **Data Tools:** Power BI, Excel
+- **Methods:** Predictive Modeling, Web Scraping, Feature Engineering, Data Preprocessing
+
+## 📌 Projects
+### ⚽ Sports Prediction Models
+- Developed a machine learning model to predict soccer match outcomes with high accuracy.
+- Engineered features using Ridge Regression and performed Monte Carlo simulations.
+- Achieved an average accuracy of <0.5 goals per match difference against real results.
 
 ---
+> “The goal is to turn data into information, and information into insight.” – Carly Fiorina
 
-## 🚀 Goals & Collaboration
-- 🔍 Actively seeking **collaboration opportunities** and **job roles** in data science or software development  
-- 🎯 2025 Goals:  
-  - Launch a full-scale sports trading platform  
-  - Contribute to open-source ML projects  
-  - Deepen my expertise in model evaluation & time-series analysis
 
----
-
-## 💬 Let’s Connect!
-If you're working on something cool—especially in the ML or sports analytics space—I'd love to chat and possibly collaborate.
-
----
-
-> “The best way to predict the future is to invent it.” – Alan Kay
-
----
 

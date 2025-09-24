@@ -3,16 +3,12 @@
 I build data solutions and AI automation tools.
 
 ## Currently working on:
-- 
+- Deepening my machine learning knowledge with hands-on projects
+- A sales data analysis project to uncover business insights
 
-**Featured projects below ↓**
-### ⚽ Sports Prediction Models
-- Developed a machine learning model to predict soccer match outcomes with high accuracy.
-- Engineered features using Ridge Regression and performed Monte Carlo simulations.
-- Achieved an average accuracy of <0.5 goals per match difference against real results.
+## Featured projects
+### Football (Soccer) Prediction Model
+Built a machine learning model that predicts soccer match results with high accuracy using feature engineering and Monte Carlo simulations. The model achieves an average error of less than 0.5 goals per match.
 
 ---
-> “The goal is to turn data into information, and information into insight.” – Carly Fiorina
-
-
-
+**Let's connect!** I'm always open to collaborating on interesting data projects.
